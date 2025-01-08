@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|c:\\users\\user\\desktop\\github\\autogrow\\frontend\\autogrow gui\\autogrow gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|solutionrelative:autogrow gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|c:\\users\\user\\desktop\\github\\autogrow\\frontend\\autogrow gui\\autogrow gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|solutionrelative:autogrow gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|c:\\users\\user\\desktop\\github\\autogrow\\frontend\\autogrow gui\\autogrow gui\\obj\\debug\\net8.0-windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|solutionrelative:autogrow gui\\obj\\debug\\net8.0-windows\\app.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|c:\\users\\user\\desktop\\github\\autogrow\\frontend\\autogrow gui\\autogrow gui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF844C6-C2C5-4B0D-9CFD-D58FB987AE44}|AutoGrow GUI\\AutoGrow GUI.csproj|solutionrelative:autogrow gui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoGrow GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\MainWindow.xaml",
+              "RelativeToolTip": "AutoGrow GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T23:21:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoGrow GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoGrow GUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA6wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:21:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "AutoGrow GUI\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeToolTip": "AutoGrow GUI\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADgvzAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:21:37.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AutoGrow GUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\AutoGrow\\frontend\\AutoGrow GUI\\AutoGrow GUI\\App.xaml.cs",
+              "RelativeToolTip": "AutoGrow GUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:21:29.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
