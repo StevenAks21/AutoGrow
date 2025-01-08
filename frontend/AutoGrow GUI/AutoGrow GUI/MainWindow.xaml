@@ -5,10 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AutoGrow_GUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="AutoGrow" Height="450" Width="450">
     <Grid>
         <Button Content="Start" HorizontalAlignment="Center" Height="35" Margin="0,361,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click"/>
-        <Label Content="Block Hardness" HorizontalAlignment="Left" Margin="178,95,0,0" VerticalAlignment="Top"/>
-        <TextBox Name ="blockHardness" HorizontalAlignment="Left" Margin="302,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Block Hardness" HorizontalAlignment="Left" Margin="40,91,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="blockHardness" HorizontalAlignment="Center" Margin="0,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Block Positions" HorizontalAlignment="Left" Margin="40,122,0,0" VerticalAlignment="Top"/>
+        <TextBox Name ="blockPositions" HorizontalAlignment="Center" Margin="0,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Start Recording Positions" HorizontalAlignment="Left" Margin="40,166,0,0" VerticalAlignment="Top"/>
+        <Button Content="Record" Height="25" Width="50" Margin="0,161,0,238" HorizontalAlignment="Center" Click="Button_Click"/>
+        <Label Content="Block #1 Position: x= , y=" HorizontalAlignment="Left" Margin="40,0,0,0" VerticalAlignment="Center"/>
+        <Label Content="Block #2 Position: x= , y=" HorizontalAlignment="Left" Margin="40,235,0,0" VerticalAlignment="Top"/>
+        <Label Content="Block #3 Position: x= , y=" HorizontalAlignment="Left" Margin="40,266,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
