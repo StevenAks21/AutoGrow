@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\bin\Debug\net8.0-windows\AutoGrow GUI.exe
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\bin\Debug\net8.0-windows\AutoGrow GUI.deps.json
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\bin\Debug\net8.0-windows\AutoGrow GUI.runtimeconfig.json
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\bin\Debug\net8.0-windows\AutoGrow GUI.dll
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\bin\Debug\net8.0-windows\AutoGrow GUI.pdb
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI_MarkupCompile.cache
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI_MarkupCompile.lref
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.g.resources
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.sourcelink.json
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.dll
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\refint\AutoGrow GUI.dll
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.pdb
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\AutoGrow GUI.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHub\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\ref\AutoGrow GUI.dll
