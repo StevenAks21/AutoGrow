@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\User\Documents\coding\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Debug\net8.0-windows\
+C:\Users\User\Documents\coding\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\obj\Release\net8.0-windows\
 AutoGrow_GUI
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\User\Documents\coding\AutoGrow\frontend\AutoGrow GUI\AutoGrow GUI\App.xaml
 11407045341
 
-41814381202
+4-1207808898
 1981760870415
 MainWindow.xaml;
 
