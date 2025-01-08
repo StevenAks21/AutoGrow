@@ -21,7 +21,6 @@ for position in range(positionsToHit):
     kb.wait("enter")
     farmablePos = auto.position()
     hitPositions.append(farmablePos)
-
 # Initialize index
 indexCounter = 0
 
