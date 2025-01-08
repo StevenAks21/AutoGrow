@@ -1,31 +1,46 @@
 import pyautogui as auto
 import keyboard as kb
 
-farmHardness = int(input('Input your farm hardness in number'))
+# Input parameters
+farmHardness = int(input('Input your farm hardness in number: '))
+positionsToHit = int(input("How many positions of blocks do you have? "))
 
-print("Aim cursor at your fist and click enter")
+# Get fist position
+print("Aim cursor at your fist and click Enter")
 kb.wait("enter")
-fistPos= auto.position()
+fistPos = auto.position()
 
-print("Aim cursor at your farmable and click enter")
+print("Aim cursor at your farmable in your inventory")
 kb.wait("enter")
-farmPos = auto.position()
+farmableInvPos = auto.position()
 
-print("Aim cursor at Break position and click enter")
-kb.wait("enter")
-breakPos = auto.position()
-#how many farmables position do you want to break?
-# for num in range (jumlahFarmable):
-# print("position?")
-# currentPos = auto.position()
-# hitPositions.append(currentPos)
-
+# Get positions of farmables
 hitPositions = []
+for position in range(positionsToHit):
+    print(f"Aim cursor at position {position + 1} of your farmable and click Enter")
+    kb.wait("enter")
+    farmablePos = auto.position()
+    hitPositions.append(farmablePos)
 
-auto.click(farmPos)
-auto.click(breakPos)
-auto.click(fistPos)
-for number in range (farmHardness):
-    auto.click(breakPos)
-currentPosition = auto.position()
-print(currentPosition)
+# Initialize index
+indexCounter = 0
+
+# Loop to automate the process
+while True:
+    # Place blocks
+    auto.moveTo(farmableInvPos)
+    auto.click()
+    for pos in hitPositions:
+        auto.moveTo(pos)
+        auto.click()
+
+    # Break blocks
+    auto.moveTo(fistPos)
+    auto.click()
+    for pos in hitPositions:
+        for _ in range(farmHardness):  # Hit the block the required number of times
+            auto.moveTo(pos)
+            auto.click()
+
+    # Debugging information
+    print(f"Finished breaking blocks at all positions: {hitPositions}")
