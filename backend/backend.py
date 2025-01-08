@@ -18,7 +18,11 @@ except ValueError:
 print("Aim cursor at Break position and click enter")
 kb.wait("enter")
 breakPos = auto.position()
-
+#how many farmables position do you want to break?
+# for num in range (jumlahFarmable):
+# print("position?")
+# currentPos = auto.position()
+# hitPositions.append(currentPos)
 
 hitPositions = []
 
@@ -27,17 +31,3 @@ auto.click(breakPos)
 auto.click(fistPos)
 for number in range (farmHardness):
     auto.click(breakPos)
-
-# left 466, 710   //magplant/block (farmPos)
-# left 568, 429   //place block (breakPos)
-# wait 100
-# left 638, 422   //place block
-# wait 100
-# left 390, 709   //fist
-# left_down 568, 429    //break
-# wait 1000
-# left_up 568, 429
-# wait 100
-# left_down 638, 422    //break
-# wait 1000
-# left_up 638,422
