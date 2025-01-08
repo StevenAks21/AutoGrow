@@ -40,7 +40,4 @@ while True:
     for pos in hitPositions:
         for _ in range(farmHardness):  # Hit the block the required number of times
             auto.moveTo(pos)
-            auto.click()
-
-    # Debugging information
-    print(f"Finished breaking blocks at all positions: {hitPositions}")
+            auto.mouseDown()
