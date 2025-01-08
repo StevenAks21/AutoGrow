@@ -1,5 +1,6 @@
 import pyautogui as auto
 import keyboard as kb
+import time
 
 # Input parameters
 farmHardness = int(input('Input your farm hardness in number: '))
@@ -28,10 +29,12 @@ indexCounter = 0
 while True:
     # Place blocks
     auto.click(farmableInvPos)
+    time.sleep(0.2)
     for pos in hitPositions:
         auto.click(pos)
 
     # Break blocks
+    time.sleep(0.1)
     auto.click(fistPos)
     for pos in hitPositions:
         for _ in range(farmHardness):  # Hit the block the required number of times
