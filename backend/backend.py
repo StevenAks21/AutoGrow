@@ -1,6 +1,8 @@
 import pyautogui as auto
 import keyboard as kb
 
+farmHardness = int(input('Input your farm hardness in number'))
+
 print("Aim cursor at your fist and click enter")
 kb.wait("enter")
 fistPos= auto.position()
@@ -8,12 +10,6 @@ fistPos= auto.position()
 print("Aim cursor at your farmable and click enter")
 kb.wait("enter")
 farmPos = auto.position()
-
-
-try:
-    farmHardness = int(input("What is your farmable hardness?"))
-except ValueError:
-    print("Must Be An Integer!")
 
 print("Aim cursor at Break position and click enter")
 kb.wait("enter")
@@ -31,3 +27,5 @@ auto.click(breakPos)
 auto.click(fistPos)
 for number in range (farmHardness):
     auto.click(breakPos)
+currentPosition = auto.position()
+print(currentPosition)
