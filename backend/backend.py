@@ -28,19 +28,15 @@ indexCounter = 0
 # Loop to automate the process
 while True:
     # Place blocks
-    auto.moveTo(farmableInvPos)
-    auto.click()
+    auto.click(farmableInvPos)
     for pos in hitPositions:
-        auto.moveTo(pos)
-        auto.click()
+        auto.click(pos)
 
     # Break blocks
-    auto.moveTo(fistPos)
-    auto.click()
+    auto.click(fistPos)
     for pos in hitPositions:
         for _ in range(farmHardness):  # Hit the block the required number of times
-            auto.moveTo(pos)
-            auto.click()
+            auto.click(pos)
 
     # Debugging information
     print(f"Finished breaking blocks at all positions: {hitPositions}")
