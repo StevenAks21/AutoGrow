@@ -21,7 +21,6 @@ for position in range(positionsToHit):
     kb.wait("enter")
     farmablePos = auto.position()
     hitPositions.append(farmablePos)
-
 # Initialize index
 indexCounter = 0
 
@@ -36,7 +35,5 @@ while True:
     auto.click(fistPos)
     for pos in hitPositions:
         for _ in range(farmHardness):  # Hit the block the required number of times
-            auto.click(pos)
-
-    # Debugging information
-    print(f"Finished breaking blocks at all positions: {hitPositions}")
+            auto.moveTo(pos)
+            auto.mouseDown()
