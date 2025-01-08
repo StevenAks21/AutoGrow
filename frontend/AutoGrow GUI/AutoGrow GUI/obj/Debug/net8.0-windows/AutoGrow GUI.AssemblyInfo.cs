@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoGrow GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57383fed578379574e1264f3b9d095bde2f1695a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af9ca9e44fb49bc373227ef5bf5ba454ba73aec")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoGrow GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoGrow GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
